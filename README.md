@@ -1,4 +1,4 @@
-# ProductReviewImages-Magento2
+# RecentlyViewed-Magento2
 
 # Overview
 
